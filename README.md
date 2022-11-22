@@ -9,5 +9,3 @@
 ### loading.... 
 
 `Status: Progress not perfection.`
-
-![octocat-1669156843088](https://user-images.githubusercontent.com/28794175/203436039-7646d4a9-8bc3-485f-ae36-d568ab1ae179.png)
