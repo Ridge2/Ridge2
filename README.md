@@ -1,4 +1,4 @@
-### Hi there, my name is Ridge, I create invisible Robots👋
+### Hi there 👋 my name is Ridge, I create invisible Robots
 
 Here are some ideas to get you started:
 
