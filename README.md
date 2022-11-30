@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Ridge, I create invisible Robots
+###  I create invisible Robots
 
 - 🔭 I’m currently working on my personal project called Triyangle
 - 🌱 I’m currently learning Python/Django
